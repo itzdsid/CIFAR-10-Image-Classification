@@ -17,4 +17,4 @@
 - The dataset consists of 60,000 32x32 color images and 6,000 images of each class.
 - Images have low resolution (32x32). 
 - Data Source: https://www.cs.toronto.edu/~kriz/cifar.html
-- I got value accuracy of 78% & accuracy 80%(for 10 epochs) to save time. But, Atlast I got value accuracy of 88% & accuracy of 92%(for 100 epochs).
+- I got accuracy 80%(for 10 epochs) to save time. But, Atlast I got accuracy of 92%(for 100 epochs).
